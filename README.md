@@ -36,7 +36,7 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 6) And thats it. The application will run and do its work.
 
 # Limitations:
-1) Works with only Microsoft Edge Browser.
+1) Works with only Microsoft Edge Browser (Currently).
 
 # Features:
 1) Encryption of E-Mail and Password.
