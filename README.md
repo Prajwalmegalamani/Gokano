@@ -3,7 +3,7 @@ Automation Software for Gokano.
 
 What is Gokano?
 
-Gokano is a website which allows you to earn some points by completing some very easy tasks like Daily Logging, Daily Poll, Social Missions, etc. The points that we earn are called 'GN Points'. The more points you earn, the more prizes you earn.
+Gokano is a website which allows you to earn some points by completing some very easy tasks like Daily Logging, Daily Poll, Social Missions, etc. The points that we earn are called 'GN Points'. The more points you earn, the more prizes you get.
  
 # How to collect GN Points:
  1) Login and click on 'Collect Daily Points'.
