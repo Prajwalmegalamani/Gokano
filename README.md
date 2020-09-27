@@ -1,4 +1,4 @@
-# Gokano
+# Gokano Automator
 Automation Software for Gokano.
 
 What is Gokano?
