@@ -30,14 +30,25 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 5) No need to Enter Data again and again.
 
 # How to Use:
+1) Run GokanoAutomator.
+    The window will look like this.
+
 ![intro](https://user-images.githubusercontent.com/46990212/95079009-a6513b00-0733-11eb-9797-8c542fac4d58.png)
 
-1) Run GokanoAutomator.
-2) Enter E-Mail.
-3) Enter Password.
-4) Enter Browser Name.
-5) If you want to load the program in a web based display, type 'yes' else 'no'.
-6) And thats it. The application will run and do its work.
+2) Enter E-Mail and Password.
+3) Enter Browser Name.
+4) If you want to load the program in a web based display, type 'yes' else 'no'.
+5) And thats it. The application will run and do its work.
+
+![automationcomplete](https://user-images.githubusercontent.com/46990212/95080553-e4e7f500-0735-11eb-9372-d1453a019169.png)
+
+6) If you want to run this application again with a different credentials, then click on 'Reset' Button and then enter the new credentials.
+
+![Inkedresetsuccessful_LI](https://user-images.githubusercontent.com/46990212/95080423-b79b4700-0735-11eb-89f9-aea61b81aa01.jpg)
+
+7) If the program finds out that your account has already collected GK Points, then this will appear.
+
+![timeneedstogo](https://user-images.githubusercontent.com/46990212/95080507-d1d52500-0735-11eb-91ee-3ed97586de7a.png)
 
 
 ![Github All Releases](https://img.shields.io/github/downloads/Prajwalmegalamani/Gokano-Automator/total)
