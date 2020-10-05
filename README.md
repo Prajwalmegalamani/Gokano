@@ -26,6 +26,9 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 1) User-Friendly.
 2) Fully Automated.
 3) Enable or Disable GUI.
+4) Email and password are Encrypted
+5) No need to enter data again and again
+6)
 
 # How to Use:
 1) Run GokanoAutomator.
