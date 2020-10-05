@@ -30,11 +30,6 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 5) No need to Enter Data again and again.
 
 # How to Use:
-1) Run GokanoAutomator.
-    The window will look like this.
-
-![intro](https://user-images.githubusercontent.com/46990212/95079009-a6513b00-0733-11eb-9797-8c542fac4d58.png)
-
 -> Sometimes when you run this program, Microsoft Defender the smart screen will pop this window:
 
 ![Screenshot 2020-10-05 180034](https://user-images.githubusercontent.com/46990212/95081372-1614f500-0737-11eb-8560-564c3ce327af.png)
@@ -42,6 +37,10 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 -> Click on 'More Info' and click on 'Run anyway'.
 
 ![Screenshot 2020-10-05 180059](https://user-images.githubusercontent.com/46990212/95081478-380e7780-0737-11eb-937a-2e314eefb527.png)
+
+1) Gokano Automator window will look like this.
+
+![intro](https://user-images.githubusercontent.com/46990212/95079009-a6513b00-0733-11eb-9797-8c542fac4d58.png)
 
 2) Enter E-Mail and Password.
 3) Enter Browser Name.
