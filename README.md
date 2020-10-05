@@ -30,15 +30,15 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 5) No need to Enter Data again and again.
 
 # How to Use:
-1) Run GokanoAutomator.
-
 ![intro](https://user-images.githubusercontent.com/46990212/95079009-a6513b00-0733-11eb-9797-8c542fac4d58.png)
 
+1) Run GokanoAutomator.
 2) Enter E-Mail.
 3) Enter Password.
 4) Enter Browser Name.
 5) If you want to load the program in a web based display, type 'yes' else 'no'.
 6) And thats it. The application will run and do its work.
+
 
 ![Github All Releases](https://img.shields.io/github/downloads/Prajwalmegalamani/Gokano-Automator/total)
 
