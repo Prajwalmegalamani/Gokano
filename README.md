@@ -35,7 +35,7 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 5) If you want to load the program in a web based display, type 'yes' else 'no'.
 6) And thats it. The application will run and do its work.
 
-[![Github All Releases](https://img.shields.io/github/downloads/Prajwalmegalamani/Gokano-Automator/total)
+![Github All Releases](https://img.shields.io/github/downloads/Prajwalmegalamani/Gokano-Automator/total)
 
 # Limitations:
 1) Works with only Microsoft Edge Browser (Currently).
