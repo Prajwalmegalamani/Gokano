@@ -31,6 +31,7 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 
 # How to Use:
 1) Run GokanoAutomator.
+![intro](https://user-images.githubusercontent.com/46990212/95079009-a6513b00-0733-11eb-9797-8c542fac4d58.png)
 2) Enter E-Mail.
 3) Enter Password.
 4) Enter Browser Name.
