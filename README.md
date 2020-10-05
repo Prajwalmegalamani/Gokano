@@ -25,10 +25,9 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 # Features:
 1) User-Friendly.
 2) Fully Automated.
-3) Enable or Disable GUI.
-4) Email and password are Encrypted
-5) No need to enter data again and again
-6)
+3) User can enable or disable GUI.
+4) E-Mail and Passwords are Encrypted.
+5) No need to Enter Data again and again.
 
 # How to Use:
 1) Run GokanoAutomator.
@@ -43,12 +42,6 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 # Limitations:
 1) Works with only Microsoft Edge Browser (Currently).
 
-# Features:
-1) Encryption of E-Mail and Password.
-2) Works only on Microsoft Edge currently.
-3) Total Automation for Collecting Daily Points.
-4) User can enable or disable GUI of the browser.
+Oh! And by the way, your E-Mail and Passwords are Encrypted.
 
-Oh! And by the way, your E-Mail and Passwords are Encrypted so you dont have to worry about privacy.
-
-# Sign Up and hop right in.
+# Sign Up and Hop Right in.
