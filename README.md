@@ -40,7 +40,7 @@ Basically anyone can use it. You will need E-Mail, Password and yeah Microsoft E
 4) If you want to load the program in a web based display, type 'yes' else 'no'.
 5) And thats it. The application will run and do its work.
 
-![automationcomplete](https://user-images.githubusercontent.com/46990212/95080553-e4e7f500-0735-11eb-9372-d1453a019169.png)
+![Inkedautomationcomplete_LI](https://user-images.githubusercontent.com/46990212/95080963-8111fc00-0736-11eb-89cf-d5453d3a0036.jpg)
 
 6) If you want to run this application again with a different credentials, then click on 'Reset' Button and then enter the new credentials.
 
